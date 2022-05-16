@@ -1,15 +1,9 @@
-## Hi there 👋
-
-<!--
-**zihadbinjahangir/zihadbinjahangir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋
 
 - 🔭 I’m currently working on NapTech Labs
-- 🌱 I’m currently learning Deep Learning
-- 👯 I’m looking to collaborate on Machine Learning project
-- 🤔 I’m looking for help with Machine Learning project
+- 🌱 I’m currently learning AI
+- 👯 I’m looking to collaborate on Machine Learning Project
+- 🤔 I’m looking for help with Improving ML model
 - 💬 Ask me about Machine Learning
 - 📫 How to reach me: zihad.bscincse@gmail.com
 - ⚡ Fun fact: I am afraid of snakes
--->
