@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on NapTech Labs
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning AI
 - 👯 I’m looking to collaborate on Machine Learning Project
 - 🤔 I’m looking for help with Improving ML model
